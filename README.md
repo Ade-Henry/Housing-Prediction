@@ -1,11 +1,3 @@
-# Housing-Prediction
-HOUSING PREDICTION USING XBOOST
-Absolutely! Here's a professional, beginner-friendly `README.md` for your house price prediction model using XGBoost.
-
-You can copy and paste this into your GitHub repo's `README.md` file. Let me know if you'd like it customized further (e.g., with your name, screenshots, or deployment links).
-
----
-
 ### 🏡 House Price Prediction with XGBoost
 
 This project uses historical real estate data to train a machine learning model that predicts the **median sale price of homes** based on features such as inventory, property type, location, and market conditions.
