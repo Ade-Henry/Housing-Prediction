@@ -82,6 +82,6 @@ jupyter notebook
 
 ## 🤝 Credits
 
-Developed by \[Heritage]
-Special thanks to open real estate data platforms for making housing data accessible.
+Developed by \[Adesiyan Heritage]
+
 
