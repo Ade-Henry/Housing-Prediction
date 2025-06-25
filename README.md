@@ -37,9 +37,9 @@ This project uses historical real estate data to train a machine learning model 
 
 | Metric | Score    |
 | ------ | -------- |
-| MAE    | \$59,507 |
-| RMSE   | \$78,530 |
-| R²     | 0.372    |
+| MAE    | $42,164.56 |
+| RMSE   | $42,164.56 |
+| R²     | 0.233    |
 
 ✅ Good correlation with actual prices
 ⚠️ Some underestimation for higher-priced homes
